@@ -1,4 +1,10 @@
-# voxel-viewer-page
-A template for voxel-viewer, just to replace vox link with yours!
-## How to use
-just to replace `to-replace-it` with your `.vox` link!
+# voxel-viewer-dAPP
+
+A deer voxel art is deployed via a single HTML page.
+
+**Note** [template](https://github.com/WeLightProject/voxel-viewer-page)
+
+## GIF Display
+
+
+
