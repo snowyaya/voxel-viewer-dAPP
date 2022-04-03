@@ -13,6 +13,8 @@
 
 ## GIF Display
 
+![voxel-viewer](https://user-images.githubusercontent.com/75382121/161409114-1b3216a4-ea5d-4dd7-9053-b24f4e08ca57.gif)
+
 ![image](https://user-images.githubusercontent.com/75382121/161408888-4476842f-74bf-418b-a5c3-c5b2ae8eb7c3.png)
 
 
